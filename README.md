@@ -1,2 +1,2 @@
-# solidity_contracts
-📝 Collection Of Solidity Smart Contracts
+# Solidity Contracts
+A collection of (practice) Solidity smart contracts.
